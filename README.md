@@ -4,7 +4,7 @@
 <h2><i><b><u>LETS MOVE</u></b></i><h2>
 <table>
 <col width="50">
-<col width="50">
+<col width="130">
 <col width="130">
 <col width="130">
 <tr>
