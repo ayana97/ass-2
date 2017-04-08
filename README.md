@@ -1,6 +1,5 @@
 <html>
-<body>
-<backgroundimage>https://myactiveschool.letsmoveschools.org/_asset/zvtpox/lmasSchoolMap.png</backgroundimage>
+<body style="background-color:powderblue;">
 <h2><i><b><u>LETS MOVE</u></b></i><h2>
 <table>
 <col width="50">
